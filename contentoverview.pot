@@ -1,0 +1,228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-16 07:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: contentoverview-admin.php:63
+msgid "Unsatisfying contentOVERVIEW"
+msgstr ""
+
+#: contentoverview-admin.php:126
+msgid "Usage"
+msgstr ""
+
+#: contentoverview-admin.php:128
+msgid "Set up some default values for new posts or pages."
+msgstr ""
+
+#: contentoverview-admin.php:129
+msgid "Also you can use"
+msgstr ""
+
+#: contentoverview-admin.php:129
+msgid "Template-Tag inside your loop."
+msgstr ""
+
+#: contentoverview-admin.php:131
+msgid "Set a string or HTML start-tag before the list."
+msgstr ""
+
+#: contentoverview-admin.php:133
+msgid "Set a string or HTML end-tag after the list."
+msgstr ""
+
+#: contentoverview-admin.php:134
+msgid "See the FAQ for more information."
+msgstr ""
+
+#: contentoverview-admin.php:147
+msgid "Display method"
+msgstr ""
+
+#: contentoverview-admin.php:152
+msgid ""
+"Disabled as default, you can activate it whenever you edit a post or page."
+msgstr ""
+
+#: contentoverview-admin.php:155
+msgid "No specific position use the Template-Tag."
+msgstr ""
+
+#: contentoverview-admin.php:158
+msgid "Show the TOC before your post text"
+msgstr ""
+
+#: contentoverview-admin.php:161
+msgid ""
+"Show the TOC after the first paragraph or (when used) after the more-tag"
+msgstr ""
+
+#: contentoverview-admin.php:166
+msgid "List style"
+msgstr ""
+
+#: contentoverview-admin.php:171 contentoverview-admin.php:394
+msgid "Decimal (recommended)"
+msgstr ""
+
+#: contentoverview-admin.php:172 contentoverview-admin.php:183
+#: contentoverview-admin.php:194 contentoverview-admin.php:205
+#: contentoverview-admin.php:216 contentoverview-admin.php:227
+#: contentoverview-admin.php:238 contentoverview-admin.php:249
+#: contentoverview-admin.php:433
+msgid "First header"
+msgstr ""
+
+#: contentoverview-admin.php:173 contentoverview-admin.php:184
+#: contentoverview-admin.php:195 contentoverview-admin.php:206
+#: contentoverview-admin.php:217 contentoverview-admin.php:228
+#: contentoverview-admin.php:239 contentoverview-admin.php:250
+#: contentoverview-admin.php:433
+msgid "Second header"
+msgstr ""
+
+#: contentoverview-admin.php:174 contentoverview-admin.php:185
+#: contentoverview-admin.php:196 contentoverview-admin.php:207
+#: contentoverview-admin.php:218 contentoverview-admin.php:229
+#: contentoverview-admin.php:240 contentoverview-admin.php:251
+#: contentoverview-admin.php:433
+msgid "Third header"
+msgstr ""
+
+#: contentoverview-admin.php:175 contentoverview-admin.php:186
+#: contentoverview-admin.php:197 contentoverview-admin.php:208
+#: contentoverview-admin.php:219 contentoverview-admin.php:230
+#: contentoverview-admin.php:241 contentoverview-admin.php:252
+msgid "Other header"
+msgstr ""
+
+#: contentoverview-admin.php:176 contentoverview-admin.php:187
+#: contentoverview-admin.php:198 contentoverview-admin.php:209
+#: contentoverview-admin.php:220 contentoverview-admin.php:231
+#: contentoverview-admin.php:242 contentoverview-admin.php:253
+#: contentoverview-admin.php:433
+msgid "Fourth header"
+msgstr ""
+
+#: contentoverview-admin.php:177 contentoverview-admin.php:188
+#: contentoverview-admin.php:199 contentoverview-admin.php:210
+#: contentoverview-admin.php:221 contentoverview-admin.php:232
+#: contentoverview-admin.php:243 contentoverview-admin.php:254
+msgid "Last but one header"
+msgstr ""
+
+#: contentoverview-admin.php:178 contentoverview-admin.php:189
+#: contentoverview-admin.php:200 contentoverview-admin.php:211
+#: contentoverview-admin.php:222 contentoverview-admin.php:233
+#: contentoverview-admin.php:244 contentoverview-admin.php:255
+#: contentoverview-admin.php:433
+msgid "Last header"
+msgstr ""
+
+#: contentoverview-admin.php:182 contentoverview-admin.php:395
+msgid "None only indent"
+msgstr ""
+
+#: contentoverview-admin.php:193 contentoverview-admin.php:396
+msgid "Disc-Bullet"
+msgstr ""
+
+#: contentoverview-admin.php:204 contentoverview-admin.php:397
+msgid "Circle-Bullet"
+msgstr ""
+
+#: contentoverview-admin.php:215 contentoverview-admin.php:398
+msgid "Lower Roman"
+msgstr ""
+
+#: contentoverview-admin.php:226 contentoverview-admin.php:399
+msgid "Upper Roman"
+msgstr ""
+
+#: contentoverview-admin.php:237 contentoverview-admin.php:400
+msgid "Lower Alphanumeric"
+msgstr ""
+
+#: contentoverview-admin.php:248 contentoverview-admin.php:401
+msgid "Upper Alphanumeric"
+msgstr ""
+
+#: contentoverview-admin.php:261
+msgid "Save your options"
+msgstr ""
+
+#: contentoverview-admin.php:285 contentoverview-admin.php:286
+msgid "contentOVERVIEW"
+msgstr ""
+
+#: contentoverview-admin.php:391
+msgid "Style"
+msgstr ""
+
+#: contentoverview-admin.php:393
+msgid "Don't use at this post..."
+msgstr ""
+
+#: contentoverview-admin.php:403 contentoverview-admin.php:431
+msgid "If no style is selected, content OVERVIEW is disabled at this post!"
+msgstr ""
+
+#: contentoverview-admin.php:405
+msgid "Position"
+msgstr ""
+
+#: contentoverview-admin.php:407
+msgid "No specific position"
+msgstr ""
+
+#: contentoverview-admin.php:408
+msgid "TOC before text"
+msgstr ""
+
+#: contentoverview-admin.php:409
+msgid "TOC after first paragraph"
+msgstr ""
+
+#: contentoverview-admin.php:411
+msgid ""
+"If you use the <code><small>&lt;?php contentoverview(); ?&gt;</small></code> "
+"Template-Tag don't use other setting than <em>No specific position</em>. "
+"Otherwise you get two content lists."
+msgstr ""
+
+#: contentoverview-admin.php:413
+msgid "Use jumps between headers"
+msgstr ""
+
+#: contentoverview-admin.php:415
+msgid ""
+"To partially skip automatic numeration you must allow jumps. Write "
+"<code><small>$+<em>n</em></small></code> inside the header and the header "
+"numbering starts <em>n</em> counts higher (<em>n</em> is a number to count "
+"the header upward). Or write <code><small>$--</small></code> to ommit the "
+"enumeration on this heading. <strong>It works only with decimal enumeration."
+"</strong>"
+msgstr ""
+
+#: contentoverview-admin.php:417
+msgid "Set a start value"
+msgstr ""
+
+#: contentoverview-admin.php:419
+msgid ""
+"Set a start value like <em>15.9.3</em> and the numbering start with this "
+"number. <strong>Use only decimal numbers and dots.</strong>"
+msgstr ""

@@ -1,0 +1,297 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: contentOVERVIEW\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-16 07:53+0200\n"
+"PO-Revision-Date: 2010-07-16 08:09+0100\n"
+"Last-Translator: Tamas Feher <mail@fehertamas.com>\n"
+"Language-Team: Deutsch <mail@fehertamas.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+
+#: contentoverview-admin.php:63
+msgid "Unsatisfying contentOVERVIEW"
+msgstr "Keine Berechtigung"
+
+#: contentoverview-admin.php:126
+msgid "Usage"
+msgstr "Benutzung"
+
+#: contentoverview-admin.php:128
+msgid "Set up some default values for new posts or pages."
+msgstr "Setze hier einige Standardwerte die auf neue Seiten oder Artikel angewandt werden."
+
+#: contentoverview-admin.php:129
+msgid "Also you can use"
+msgstr "Du kannst auch das"
+
+#: contentoverview-admin.php:129
+msgid "Template-Tag inside your loop."
+msgstr "Template-Tag im loop benutzen."
+
+#: contentoverview-admin.php:131
+msgid "Set a string or HTML start-tag before the list."
+msgstr "Set a string or HTML start-tag before the list."
+
+#: contentoverview-admin.php:133
+msgid "Set a string or HTML end-tag after the list."
+msgstr "Set a string or HTML end-tag after the list."
+
+#: contentoverview-admin.php:134
+msgid "See the FAQ for more information."
+msgstr "Schaue für weitere Informationen in die FAQ"
+
+#: contentoverview-admin.php:147
+msgid "Display method"
+msgstr "Darstellungsart"
+
+#: contentoverview-admin.php:152
+msgid "Disabled as default, you can activate it whenever you edit a post or page."
+msgstr "Deaktiviert, im Editor kannst du das Plugin jederzeit aktivieren"
+
+#: contentoverview-admin.php:155
+msgid "No specific position use the Template-Tag."
+msgstr "Keine festgelegte Position benutze das Template-Tag"
+
+#: contentoverview-admin.php:158
+msgid "Show the TOC before your post text"
+msgstr "Zeige Zusammenfassung vor dem Text"
+
+#: contentoverview-admin.php:161
+msgid "Show the TOC after the first paragraph or (when used) after the more-tag"
+msgstr "Zeige die Zusammenfassung nach dem ersten Abschnitt oder nach dem MORE-TAG"
+
+#: contentoverview-admin.php:166
+msgid "List style"
+msgstr "Listenstil"
+
+#: contentoverview-admin.php:171
+#: contentoverview-admin.php:394
+msgid "Decimal (recommended)"
+msgstr "Dezimal (Empfohlen)"
+
+#: contentoverview-admin.php:172
+#: contentoverview-admin.php:183
+#: contentoverview-admin.php:194
+#: contentoverview-admin.php:205
+#: contentoverview-admin.php:216
+#: contentoverview-admin.php:227
+#: contentoverview-admin.php:238
+#: contentoverview-admin.php:249
+#: contentoverview-admin.php:433
+msgid "First header"
+msgstr "Erste Überschrift"
+
+#: contentoverview-admin.php:173
+#: contentoverview-admin.php:184
+#: contentoverview-admin.php:195
+#: contentoverview-admin.php:206
+#: contentoverview-admin.php:217
+#: contentoverview-admin.php:228
+#: contentoverview-admin.php:239
+#: contentoverview-admin.php:250
+#: contentoverview-admin.php:433
+msgid "Second header"
+msgstr "Zweite Überschrift"
+
+#: contentoverview-admin.php:174
+#: contentoverview-admin.php:185
+#: contentoverview-admin.php:196
+#: contentoverview-admin.php:207
+#: contentoverview-admin.php:218
+#: contentoverview-admin.php:229
+#: contentoverview-admin.php:240
+#: contentoverview-admin.php:251
+#: contentoverview-admin.php:433
+msgid "Third header"
+msgstr "Dritte Überschrift"
+
+#: contentoverview-admin.php:175
+#: contentoverview-admin.php:186
+#: contentoverview-admin.php:197
+#: contentoverview-admin.php:208
+#: contentoverview-admin.php:219
+#: contentoverview-admin.php:230
+#: contentoverview-admin.php:241
+#: contentoverview-admin.php:252
+msgid "Other header"
+msgstr "Andere Überschrift"
+
+#: contentoverview-admin.php:176
+#: contentoverview-admin.php:187
+#: contentoverview-admin.php:198
+#: contentoverview-admin.php:209
+#: contentoverview-admin.php:220
+#: contentoverview-admin.php:231
+#: contentoverview-admin.php:242
+#: contentoverview-admin.php:253
+#: contentoverview-admin.php:433
+msgid "Fourth header"
+msgstr "Vierte Überschrift"
+
+#: contentoverview-admin.php:177
+#: contentoverview-admin.php:188
+#: contentoverview-admin.php:199
+#: contentoverview-admin.php:210
+#: contentoverview-admin.php:221
+#: contentoverview-admin.php:232
+#: contentoverview-admin.php:243
+#: contentoverview-admin.php:254
+msgid "Last but one header"
+msgstr "Vorletzte Überschrift"
+
+#: contentoverview-admin.php:178
+#: contentoverview-admin.php:189
+#: contentoverview-admin.php:200
+#: contentoverview-admin.php:211
+#: contentoverview-admin.php:222
+#: contentoverview-admin.php:233
+#: contentoverview-admin.php:244
+#: contentoverview-admin.php:255
+#: contentoverview-admin.php:433
+msgid "Last header"
+msgstr "Letzte Überschrift"
+
+#: contentoverview-admin.php:182
+#: contentoverview-admin.php:395
+msgid "None only indent"
+msgstr "Nur einrücken"
+
+#: contentoverview-admin.php:193
+#: contentoverview-admin.php:396
+msgid "Disc-Bullet"
+msgstr "Ausgefüllter Kreis"
+
+#: contentoverview-admin.php:204
+#: contentoverview-admin.php:397
+msgid "Circle-Bullet"
+msgstr "Kreis (nur Umrandung)"
+
+#: contentoverview-admin.php:215
+#: contentoverview-admin.php:398
+msgid "Lower Roman"
+msgstr "Kleine römische Ziffern"
+
+#: contentoverview-admin.php:226
+#: contentoverview-admin.php:399
+msgid "Upper Roman"
+msgstr "Große römische Ziffern"
+
+#: contentoverview-admin.php:237
+#: contentoverview-admin.php:400
+msgid "Lower Alphanumeric"
+msgstr "Kleine alphanumerische Zeichen"
+
+#: contentoverview-admin.php:248
+#: contentoverview-admin.php:401
+msgid "Upper Alphanumeric"
+msgstr "Große alphanumerische Zeichen"
+
+#: contentoverview-admin.php:261
+msgid "Save your options"
+msgstr "Speichern"
+
+#: contentoverview-admin.php:285
+#: contentoverview-admin.php:286
+msgid "contentOVERVIEW"
+msgstr "contentOVERVIEW"
+
+#: contentoverview-admin.php:391
+msgid "Style"
+msgstr "Stil"
+
+#: contentoverview-admin.php:393
+msgid "Don't use at this post..."
+msgstr "Hier nicht verwenden...."
+
+#: contentoverview-admin.php:403
+#: contentoverview-admin.php:431
+msgid "If no style is selected, content OVERVIEW is disabled at this post!"
+msgstr "Wenn kein Stil ausgewählt ist, bleibt das Plugin für diesen Beitrag deaktiviert!"
+
+#: contentoverview-admin.php:405
+msgid "Position"
+msgstr "Position"
+
+#: contentoverview-admin.php:407
+msgid "No specific position"
+msgstr "Keine festgelegte Position"
+
+#: contentoverview-admin.php:408
+msgid "TOC before text"
+msgstr "Zusammenfassung vor dem Text"
+
+#: contentoverview-admin.php:409
+msgid "TOC after first paragraph"
+msgstr "Nach dem ersten Absatz"
+
+#: contentoverview-admin.php:411
+msgid "If you use the <code><small>&lt;?php contentoverview(); ?&gt;</small></code> Template-Tag don't use other setting than <em>No specific position</em>. Otherwise you get two content lists."
+msgstr "Wenn du das Template-Tag <code><small>&lt;?php contentoverview(); ?&gt;</small></code> benutzt, wähle die Position <em>Keine festgelegte Position</em>. Sonst werden mehrere Listen generiert."
+
+#: contentoverview-admin.php:413
+msgid "Use jumps between headers"
+msgstr "Erlaube Sprünge zw. den Titeln"
+
+#: contentoverview-admin.php:415
+msgid "To partially skip automatic numeration you must allow jumps. Write <code><small>$+<em>n</em></small></code> inside the header and the header numbering starts <em>n</em> counts higher (<em>n</em> is a number to count the header upward). Or write <code><small>$--</small></code> to ommit the enumeration on this heading. <strong>It works only with decimal enumeration.</strong>"
+msgstr "Um die Nummerierung teilweise zu ändern müssen Sprünge gestattet sein. Schreibe <code><small>$+<em>n</em></small></code> innerhalb der Header um die Nummerierung <em>n</em> Nummern höher zu beginnen (<em>n</em> ist eine Zahl um das der Zähler nach oben gezählt wird). Oder Schreibe <code><small>$--</small></code> um die Nummerierung für einzelne Titel auszusetzen. <strong>Funktioniert nur mit dezimaler Nummerierung.</strong>"
+
+#: contentoverview-admin.php:417
+msgid "Set a start value"
+msgstr "Startwert"
+
+#: contentoverview-admin.php:419
+msgid "Set a start value like <em>15.9.3</em> and the numbering start with this number. <strong>Use only decimal numbers and dots.</strong>"
+msgstr "Setze einen Startwert um die Nummerierung bei einer höheren Zahl, zum Beispiel <em>15.9.3</em>, zu beginnen. <strong>Nutze in diesem Feld nur Dezimalzahlen und Punkte.</strong>"
+
+#~ msgid ""
+#~ "Set <em>No specific position</em> if you use the <code><small>&lt;?php "
+#~ "contentoverview(); ?&gt;</small></code> Template-Tag."
+#~ msgstr ""
+#~ "Wähle <em>Keine festgelegte Position</em> wenn das <code>&lt;?php "
+#~ "contentoverview(); ?&gt;</code> Template-Tag verwendet wird."
+#~ msgid ""
+#~ "Activate this plugin and set the listing style at each post- or page-"
+#~ "edit. At this page you can set default values for new posts or pages."
+#~ msgstr ""
+#~ "Aktivieren Sie dieses Plugin und wählen Sie einen Listenstil wenn Sie "
+#~ "einen Artikel oder eine Seite bearbeiten oder erstellen. Auf dieser Seite "
+#~ "können sie die Voreinstellungen für neue Beiträge oder Seiten treffen."
+#~ msgid ""
+#~ "Also you can use <code>&lt;?php contentoverview(); ?&gt;</code> Template-"
+#~ "Tag inside your loop."
+#~ msgstr ""
+#~ "Benutzen Sie <code>&lt;?php contentoverview(); ?&gt;</code> als Template-"
+#~ "Tag innerhalb des loops."
+#~ msgid ""
+#~ "Write the shortcode <code>$contentoverview</code> in your post or use the "
+#~ "Template-Tag. (recommended)"
+#~ msgstr ""
+#~ "content OVERVI  EWco  nten tOVERVIEWc ontentOVER VIEWcontentOVERVIEW"
+#~ msgid "Select a TOC styling..."
+#~ msgstr "Wählen Sie einen Listen-Typ"
+#~ msgid ""
+#~ "You may use the shortcode notation in your post or you can set a position "
+#~ "to insert the generated overview."
+#~ msgstr ""
+#~ "Sie können das Plugin in jedem Beitrag oder auf jeder Seite aktivieren "
+#~ "und dessen Darstellungsart wählen. Auf dieser Seite können Sie eine "
+#~ "Voreinstellung für jede neue Seite bzw. jeden neuen Beitrag setzen."
+#~ msgid ""
+#~ "See the <a href=\"http://wordpress.org/extend/plugins/contentoverview/faq/"
+#~ "\">FAQ</a> for more information."
+#~ msgstr ""
+#~ "Die <a href=\"http://wordpress.org/extend/plugins/contentoverview/faq/"
+#~ "\">FAQ</a>für weiterführende Informationen."
+#~ msgid "Activeate on this Post"
+#~ msgstr "In diesem Beitrag verwenden"
+
